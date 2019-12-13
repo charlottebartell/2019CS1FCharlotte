@@ -1,10 +1,14 @@
 .circle{
-    color:red; /*this should be background-color*/
+    background-color:red; 
     border-radius:25%;
     width:12px;
     height:12px;
-    /*In order to use the top and left properties, you need to add a position:absolute;*/
-    
+    position:absolute;
+
+}
+
+.info{
+    display:none;
 }
 
 #acadia{
@@ -17,5 +21,3 @@
     left:300px
 }
 
-/* Don't forget to add a new class .info, so that the info you put in your html is not 
-visible at first */
