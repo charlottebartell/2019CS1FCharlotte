@@ -1,67 +1,21 @@
-.map{
-    <image src:"usa-map"
-}
-
 .circle{
-    color:red;
+    color:red; /*this should be background-color*/
     border-radius:25%;
     width:12px;
     height:12px;
+    /*In order to use the top and left properties, you need to add a position:absolute;*/
+    
 }
 
 #acadia{
     top:300px;
     left:300px
 }
-#acadia{
-    top:300px;
+
+#yosemite{
+    top:100px;
     left:300px
 }
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
-#acadia{
-    top:300px;
-    left:300px
-}
+
+/* Don't forget to add a new class .info, so that the info you put in your html is not 
+visible at first */
