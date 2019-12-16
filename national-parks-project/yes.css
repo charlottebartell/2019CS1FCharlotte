@@ -1,0 +1,115 @@
+@CHARSET "UTF-8";
+
+html,body{
+    width:100%;
+    height:100%
+}
+
+#map{
+    
+}
+ 
+#box{
+    width:920px;
+    height:570px;
+    background-color:rgba(0,0,0,.8); 
+    border-radius:20px; 
+    text-align:center;
+    display:inline-block;
+    position:absolute;
+    top:7px;
+    display:none;
+}
+
+.circle{
+    background-color:red; 
+    width:7px;
+    height:7px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+#acadia{
+    top: 110px;
+    left: 865px;
+}
+
+#yosemite{
+    top: 250px;
+    left: 86px;
+}
+
+#yellowstone{
+    top: 137px;
+    left: 254px;
+}
+
+#glacier{
+    top: 50px;
+    left: 230px;
+}
+
+#grandcanyon{
+    top: 320px;
+    left: 205px;
+}
+
+#greatsmokymountains{
+    top: 325px;
+    left: 680px;
+}
+
+#grandteton{
+    top: 152px;
+    left: 252px;
+}
+
+#zion{
+    top: 280px;
+    left: 188px;
+}
+
+#rockymountain{
+    top: 110px;
+    left: 865px;
+}
+
+#olympic{
+    top: 27px;
+    left: 77px;
+}
+
+#denali{
+    top: 500px;
+    left: 105px;
+}
+
+#brycecanyon{
+    top: 282px;
+    left: 210px;
+}
+
+#title{
+    font-family:"garamond";
+    color: white;
+    display:none;
+}
+
+#description{
+    font-family:"times";
+    color: white;
+    display:none;
+}
+
+#picture{
+    
+}
+
+#box #title{
+    display:block;
+}
+
+
+
+
+

@@ -1,0 +1,126 @@
+@CHARSET "UTF-8";
+body{
+    background-color: #060;
+}
+
+#outer{
+    width: 700px;
+    height: 400px;
+    background-color: #222;
+    border: 4px solid #fff;
+    border-radius: 40px;
+    position: relative;
+}
+
+#inner{
+    width: 500px;
+    height: 200px;
+    background-color: #060;
+    border: 4px solid #fff;
+    border-radius: 10px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+#finishLine{
+    width: 40px;
+    height: 500px;
+    font-size: 0;
+    position: absolute;
+    left: 210px;
+    top: 309px;
+}
+
+.checker{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
+
+.black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
+}
+
+.car{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+#car1{
+     background: url('grey-car.jpg') no-repeat center center;
+     background-size:contain;
+     left: 150px;
+     top: 310px;
+}
+
+#car2{
+    background: url('grey-car.jpg') no-repeat center center;
+    background-size:contain;
+    left: 150px;
+    top: 340px;
+ }   
+  
+  #car3{
+    background: url('grey-car.jpg') no-repeat center center;
+    background-size:contain;
+    left: 150px;
+    top: 370px;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
