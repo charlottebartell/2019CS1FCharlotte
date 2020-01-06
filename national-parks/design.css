@@ -107,13 +107,16 @@ html,body{
     font-family:"times";
     color: white;
     display:none;
-}
+    font-size:200px;
+    font:bold 100;
 
-#picture{
-    
 }
 
 #box #title{
+    display:block;
+}
+
+#box #description{
     display:block;
 }
 
