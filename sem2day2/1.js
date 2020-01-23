@@ -1,4 +1,7 @@
-function reverse(message){
-    var reverseString= "";
-    for(var i=message.length=1; i>=0; )
+function centuryFromYear(year) {
+    return Math.ceil(year/100);
+
 }
+
+console.log(centuryFromYear(1905));
+console.log(centuryFromYear(1700)); 
